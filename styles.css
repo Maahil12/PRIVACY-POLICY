@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Set background color to white */
+    color: #333; /* Set default text color to dark gray */
+}
+
+nav {
+    background-color: #ffffff; /* Set background color of the navigation bar to white */
+    color: #fff;
+    padding: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Set the color of links to blue and remove underline */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    color: #ffffff /* Set text color to black */
+}
